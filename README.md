@@ -43,16 +43,16 @@
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 
 
-<a href="https://github.com/raulval">
+<a href="https://github.com/LucasCarvalhoSilva">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=LucasCarvalhoSilva&theme=dracula&hide_langs_below=1&layout=compact&langs_count=8" />
 </a>
 
-<a href="https://github.com/raulval">
+<a href="https://github.com/LucasCarvalhoSilva">
   <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=LucasCarvalhoSilva&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carvalho-silva/)](https://www.linkedin.com/in/lucas-carvalho-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-diogo@diogocezar.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascarvalhosilva2901@gmail.com)](mailto:lucascarvalhosilva2901@gmail.com)
+
 [![GitHub]( https://img.shields.io/github/followers/LucasCarvalhoSilva?label=follow&style=for-the-badge)](https://github.com/LucasCarvalhoSilva)
-[![GitHub LucasCarvalhoSilva](https://img.shields.io/github/followers/LucasCarvalhoSilva?label=follow&style=social)](https://github.com/LucasCarvalhoSilva)
+
 
