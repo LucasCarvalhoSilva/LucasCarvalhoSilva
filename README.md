@@ -29,7 +29,6 @@
 
 ### utility or development tools
 ![Insomnia](https://img.shields.io/badge/-Insomnia-593D88?style=for-the-badge&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-1572B6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
