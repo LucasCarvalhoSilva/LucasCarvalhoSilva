@@ -24,9 +24,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 
 
 
@@ -34,22 +31,12 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-593D88?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-1572B6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-323330?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Xd](https://img.shields.io/badge/-AdobeXd-333333?style=flat&logo=adobexd)
-![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 
 
-<a href="https://github.com/LucasCarvalhoSilva">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=LucasCarvalhoSilva&theme=dracula&hide_langs_below=1&layout=compact&langs_count=8" />
-</a>
-
-<a href="https://github.com/LucasCarvalhoSilva">
-  <img align="center" src="https://bellomia-readme-stats.vercel.app/api?username=LucasCarvalhoSilva&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
-</a>
+### My Social Media
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carvalho-silva/)](https://www.linkedin.com/in/lucas-carvalho-silva/)
 
